@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: 18e930dfd786388418e75a1a9067067c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' Part [369083]'
+    100002: ' Part [369085]'
+    100004: ' Part [369089]'
+    100006: ' Part [390604]'
+    100008: ' Part [633079]'
+    100010: Ball_Valve_2320_RB_Brass-M3_000001 1/2" [550431]
+    100012: Ball_Valve_2320_RB_Brass-M3_000001 1/2" [550431].001
+    100014: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1" [526834]
+    100016: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1/2"_53f
+    100018: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1/2"_53f31e6
+    100020: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_3/4"_2e8cb27
+    100022: Basic Wall Generic - 8" [282334]
+    100024: Basic Wall Generic - 8" [282335]
+    100026: BIMSF-Dimension Lumber 2x4 [326762]
+    100028: BIMSF-Dimension Lumber 2x4 [326764]
+    100030: BIMSF-Dimension Lumber 2x4 [330609]
+    100032: BIMSF-Dimension Lumber 2x4 [330611]
+    100034: BIMSF-Dimension Lumber 2x4 [331124]
+    100036: BIMSF-Dimension Lumber 2x4 [331244]
+    100038: BIMSF-Dimension Lumber 2x4 [331286]
+    100040: BIMSF-Dimension Lumber 2x4 [331288]
+    100042: BIMSF-Dimension Lumber 2x4 [346312]
+    100044: BIMSF-Dimension Lumber 2x4 [346807]
+    100046: BIMSF-Dimension Lumber 2x4 [393409]
+    100048: BIMSF-Dimension Lumber 2x4 [518634]
+    100050: BIMSF-Dimension Lumber 2x4 [518753]
+    100052: BIMSF-Dimension Lumber 2x4 [518764]
+    100054: BIMSF-Dimension Lumber 2x4 [630291]
+    100056: BIMSF-Dimension Lumber 2x4 [630701]
+    100058: BIMSF-Dimension Lumber 2x4 [641584]
+    100060: BIMSF-Dimension Lumber 2x4 [644607]
+    100062: BIMSF-Dimension Lumber 2x4 [650940]
+    100064: BIMSF-Dimension Lumber 2x4 [650965]
+    100066: BIMSF-Dimension Lumber 2x4 [658559]
+    100068: BIMSF-Dimension Lumber 2x4 [659044]
+    100070: BIMSF-Dimension Lumber 2x4 [659115]
+    100072: BIMSF-Dimension Lumber 2x4 [659164]
+    100074: BIMSF-Dimension Lumber-Column 2x4 [326766]
+    100076: BIMSF-Dimension Lumber-Column 2x4 [329440]
+    100078: BIMSF-Dimension Lumber-Column 2x4 [329537]
+    100080: BIMSF-Dimension Lumber-Column 2x4 [329595]
+    100082: BIMSF-Dimension Lumber-Column 2x4 [330103]
+    100084: BIMSF-Dimension Lumber-Column 2x4 [330162]
+    100086: BIMSF-Dimension Lumber-Column 2x4 [330199]
+    100088: BIMSF-Dimension Lumber-Column 2x4 [330362]
+    100090: BIMSF-Dimension Lumber-Column 2x4 [330847]
+    100092: BIMSF-Dimension Lumber-Column 2x4 [330925]
+    100094: BIMSF-Dimension Lumber-Column 2x4 [330938]
+    100096: BIMSF-Dimension Lumber-Column 2x4 [330951]
+    100098: BIMSF-Dimension Lumber-Column 2x4 [330962]
+    100100: BIMSF-Dimension Lumber-Column 2x4 [331122]
+    100102: BIMSF-Dimension Lumber-Column 2x4 [331126]
+    100104: BIMSF-Dimension Lumber-Column 2x4 [331128]
+    100106: BIMSF-Dimension Lumber-Column 2x4 [331130]
+    100108: BIMSF-Dimension Lumber-Column 2x4 [331132]
+    100110: BIMSF-Dimension Lumber-Column 2x4 [331134]
+    100112: BIMSF-Dimension Lumber-Column 2x4 [331290]
+    100114: BIMSF-Dimension Lumber-Column 2x4 [331292]
+    100116: BIMSF-Dimension Lumber-Column 2x4 [331294]
+    100118: BIMSF-Dimension Lumber-Column 2x4 [331296]
+    100120: BIMSF-Dimension Lumber-Column 2x4 [331298]
+    100122: BIMSF-Dimension Lumber-Column 2x4 [331453]
+    100124: BIMSF-Dimension Lumber-Column 2x4 [331495]
+    100126: BIMSF-Dimension Lumber-Column 2x4 [345907]
+    100128: BIMSF-Dimension Lumber-Column 2x4 [346011]
+    100130: BIMSF-Dimension Lumber-Column 2x4 [347503]
+    100132: BIMSF-Dimension Lumber-Column 2x4 [347696]
+    100134: BIMSF-Dimension Lumber-Column 2x4 [347877]
+    100136: BIMSF-Dimension Lumber-Column 2x6 [367697]
+    100138: BIMSF-Dimension Lumber-Column 2x6 [367755]
+    100140: black wire
+    100142: blower
+    100144: blower arm.001
+    100146: blower arm.002
+    100148: blowermotor
+    100150: blue wire
+    100152: bottom
+    100154: Bulkhead Bulkhead [650141]
+    100156: burners&manifold
+    100158: burners&manifold.001
+    100160: Cap - Threaded - MI - Class 150 Standard [415311]
+    100162: Cap - Threaded - MI - Class 150 Standard [415311].001
+    100164: capacitor
+    100166: combustionairinducer
+    100168: combustionairpressureswitch
+    100170: control board
+    100172: control board.001
+    100174: control board.002
+    100176: control board.003
+    100178: Coupling Concentric Reducing - Threaded - MI - Class 15_784af2e
+    100180: Door Handle
+    100182: Door Single Swing Stop Solid Type 1 [345809]
+    100184: Duct Board Duct Board [652061]
+    100186: Duplex Receptacle Standard [479852]
+    100188: Duplex Receptacle Standard [511428]
+    100190: Duplex Receptacle Standard [511830]
+    100192: Duplex Receptacle Standard [511903]
+    100194: Elbow - Threaded - MI - Class 150 Standard [481464]
+    100196: Elbow - Threaded - MI - Class 150 Standard [483047]
+    100198: Filter - Panel - Flat 16-1/2"x26-3/8" [617294]
+    100200: firewall
+    100202: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee
+    100204: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee.001
+    100206: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee75a4
+    100208: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f
+    100210: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.001
+    100212: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.002
+    100214: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.003
+    100216: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f3685
+    100218: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__26a3db6
+    100220: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__5ec017f
+    100222: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__a6679b4
+    100224: Fitting-Union-Mueller-Streamline-CxC-WC_407-C_107 Stand_1417169
+    100226: Fitting-Union-Mueller-Streamline-CxC-WC_407-C_107 Stand_8056b72
+    100228: flamerolloutswitch
+    100230: flamerolloutswitches
+    100232: flamesensor
+    100234: Flex Duct Round Flex - Round [519060]
+    100236: Flex Duct Round Flex - Round [649002]
+    100238: Flex Pipe Round Flex - Round [534730]
+    100240: Flex Pipe Round Flex - Round [534846]
+    100242: Floor Concrete Slab - 4" [296054]
+    100244: front lower access panel
+    100246: front upper access panel
+    100248: //RootNode
+    100250: gas pipe
+    100252: gasvalve
+    100254: green wire
+    100256: heatexch1
+    100258: heatexch2
+    100260: heatexch3
+    100262: heatexch4
+    100264: heatexchanger
+    100266: Hexagon Junction Box 120V [511660]
+    100268: Humidifier Humidifier [648707]
+    100270: Insulation_Fiber Glass_01
+    100272: Insulation_Fiber Glass_02
+    100274: left side cabinet
+    100276: Lightbulb
+    100278: M_Meter_Water_MEPcontent_Unspecified Generic Water Mete_14ba813
+    100280: middle shelf
+    100282: orange wire
+    100284: Pipe Types Copper Pipe [347976]
+    100286: Pipe Types Copper Pipe [348010]
+    100288: Pipe Types Copper Pipe [416822]
+    100290: Pipe Types Copper Pipe [638271]
+    100292: Pipe Types Copper Pipe [639525]
+    100294: Pipe Types Copper Pipe [639560]
+    100296: Pipe Types Copper Pipe [639678]
+    100298: Pipe Types Copper Pipe [657450]
+    100300: Pipe Types Copper Pipe [657461]
+    100302: Pipe Types Copper Pipe [657526]
+    100304: Pipe Types Copper Pipe [657536]
+    100306: Pipe Types Copper Pipe [657605]
+    100308: Pipe Types Copper Pipe [658258]
+    100310: Pipe Types Copper Pipe [658593]
+    100312: Pipe Types Copper Pipe [658593].001
+    100314: Pipe Types Copper Pipe [658827]
+    100316: Pipe Types Default [414236]
+    100318: Pipe Types Default [514778]
+    100320: Pipe Types Iron Pipe [348062]
+    100322: Pipe Types Iron Pipe [480601]
+    100324: Pipe Types Iron Pipe [481096]
+    100326: Pipe Types Iron Pipe [482875]
+    100328: Pipe Types Iron Pipe [482983]
+    100330: Pipe Types Iron Pipe [533778]
+    100332: Pipe Types Iron Pipe [538028]
+    100334: Pipe Types Iron Pipe [645668]
+    100336: Pipe Types Iron Pipe [645688]
+    100338: Plywood Backing Plywood Backing [482298]
+    100340: rear panel cabinet
+    100342: Rectangular Duct Default [480136]
+    100344: Rectangular Duct Default [480162]
+    100346: Rectangular Duct Default [481779]
+    100348: Rectangular Duct Default [620029]
+    100350: Rectangular Duct Default [630897]
+    100352: Rectangular Length Eccentric Transition - DTL Standard [617527]
+    100354: Rectangular Length Eccentric Transition - DTL Standard [630898]
+    100356: red wire
+    100358: right side cabinet.001
+    100360: Round Duct Default [519921]
+    100362: Round Elbow - Gore 3 Gore 1D [652688]
+    100364: Round Elbow - Gore 3 Gore 1D [654728]
+    100366: Round Elbow - Gore 3 Gore 1D [654894]
+    100368: Round Elbow - Gore 4 Gore 1D [642585]
+    100370: Round Elbow Duct Register_01
+    100372: Round Elbow Duct Register_02
+    100374: Round Transition - DTL Standard [522390]
+    100376: Round Transition - DTL Standard [654582]
+    100378: secondary limit
+    100380: Single Phase Panel - 120V MCB - Recessed 100A [482025]
+    100382: Switch Motorized Door [453805]
+    100384: Switch Motorized Door [503498]
+    100386: T-Handle_Valve_RB_Aluminium_Black-M3_000001 DN8_15 [550432]
+    100388: T-Handle_Valve_RB_Aluminium_Black-M3_000001 DN8_15 [550432].001
+    100390: Tee - Threaded - MI - Class 150 Standard [533777]
+    100392: Tee - Threaded - MI - Class 150 Standard [533777].001
+    100394: Tee Reducing - Threaded - MI - Class 150 Standard [482856]
+    100396: Tee Reducing - Threaded - MI - Class 150 Standard [645687]
+    100398: top panel
+    100400: top rim
+    100402: "Trus_Joist-Weyerhaeuser-Rim_Board_Material TJ\xAE Rim Boa_85c27c6"
+    100404: "Trus_Joist-Weyerhaeuser-Rim_Board_Material TJ\xAE Rim Boa_c15a6dc"
+    100406: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749]
+    100408: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].001
+    100410: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].002
+    100412: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].003
+    100414: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].004
+    100416: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306]
+    100418: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].001
+    100420: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].002
+    100422: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].003
+    100424: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].004
+    100426: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].005
+    100428: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].006
+    100430: Union_Pipe-Dielectric-WATTS-LF3006_Series LF3006-0.5" [5380
+    100432: Union_Pipe-Dielectric-WATTS-LF3006_Series LF3006-0.5" [538046]
+    100434: Vapour Barrier_01
+    100436: Vapour Barrier_02
+    100438: vents on top panel
+    100440: Water_Heater-Gas-Bradford_White-Residential-Ultra_Low_N_7195209
+    400000: ' Part [369083]'
+    400002: ' Part [369085]'
+    400004: ' Part [369089]'
+    400006: ' Part [390604]'
+    400008: ' Part [633079]'
+    400010: Ball_Valve_2320_RB_Brass-M3_000001 1/2" [550431]
+    400012: Ball_Valve_2320_RB_Brass-M3_000001 1/2" [550431].001
+    400014: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1" [526834]
+    400016: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1/2"_53f
+    400018: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1/2"_53f31e6
+    400020: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_3/4"_2e8cb27
+    400022: Basic Wall Generic - 8" [282334]
+    400024: Basic Wall Generic - 8" [282335]
+    400026: BIMSF-Dimension Lumber 2x4 [326762]
+    400028: BIMSF-Dimension Lumber 2x4 [326764]
+    400030: BIMSF-Dimension Lumber 2x4 [330609]
+    400032: BIMSF-Dimension Lumber 2x4 [330611]
+    400034: BIMSF-Dimension Lumber 2x4 [331124]
+    400036: BIMSF-Dimension Lumber 2x4 [331244]
+    400038: BIMSF-Dimension Lumber 2x4 [331286]
+    400040: BIMSF-Dimension Lumber 2x4 [331288]
+    400042: BIMSF-Dimension Lumber 2x4 [346312]
+    400044: BIMSF-Dimension Lumber 2x4 [346807]
+    400046: BIMSF-Dimension Lumber 2x4 [393409]
+    400048: BIMSF-Dimension Lumber 2x4 [518634]
+    400050: BIMSF-Dimension Lumber 2x4 [518753]
+    400052: BIMSF-Dimension Lumber 2x4 [518764]
+    400054: BIMSF-Dimension Lumber 2x4 [630291]
+    400056: BIMSF-Dimension Lumber 2x4 [630701]
+    400058: BIMSF-Dimension Lumber 2x4 [641584]
+    400060: BIMSF-Dimension Lumber 2x4 [644607]
+    400062: BIMSF-Dimension Lumber 2x4 [650940]
+    400064: BIMSF-Dimension Lumber 2x4 [650965]
+    400066: BIMSF-Dimension Lumber 2x4 [658559]
+    400068: BIMSF-Dimension Lumber 2x4 [659044]
+    400070: BIMSF-Dimension Lumber 2x4 [659115]
+    400072: BIMSF-Dimension Lumber 2x4 [659164]
+    400074: BIMSF-Dimension Lumber-Column 2x4 [326766]
+    400076: BIMSF-Dimension Lumber-Column 2x4 [329440]
+    400078: BIMSF-Dimension Lumber-Column 2x4 [329537]
+    400080: BIMSF-Dimension Lumber-Column 2x4 [329595]
+    400082: BIMSF-Dimension Lumber-Column 2x4 [330103]
+    400084: BIMSF-Dimension Lumber-Column 2x4 [330162]
+    400086: BIMSF-Dimension Lumber-Column 2x4 [330199]
+    400088: BIMSF-Dimension Lumber-Column 2x4 [330362]
+    400090: BIMSF-Dimension Lumber-Column 2x4 [330847]
+    400092: BIMSF-Dimension Lumber-Column 2x4 [330925]
+    400094: BIMSF-Dimension Lumber-Column 2x4 [330938]
+    400096: BIMSF-Dimension Lumber-Column 2x4 [330951]
+    400098: BIMSF-Dimension Lumber-Column 2x4 [330962]
+    400100: BIMSF-Dimension Lumber-Column 2x4 [331122]
+    400102: BIMSF-Dimension Lumber-Column 2x4 [331126]
+    400104: BIMSF-Dimension Lumber-Column 2x4 [331128]
+    400106: BIMSF-Dimension Lumber-Column 2x4 [331130]
+    400108: BIMSF-Dimension Lumber-Column 2x4 [331132]
+    400110: BIMSF-Dimension Lumber-Column 2x4 [331134]
+    400112: BIMSF-Dimension Lumber-Column 2x4 [331290]
+    400114: BIMSF-Dimension Lumber-Column 2x4 [331292]
+    400116: BIMSF-Dimension Lumber-Column 2x4 [331294]
+    400118: BIMSF-Dimension Lumber-Column 2x4 [331296]
+    400120: BIMSF-Dimension Lumber-Column 2x4 [331298]
+    400122: BIMSF-Dimension Lumber-Column 2x4 [331453]
+    400124: BIMSF-Dimension Lumber-Column 2x4 [331495]
+    400126: BIMSF-Dimension Lumber-Column 2x4 [345907]
+    400128: BIMSF-Dimension Lumber-Column 2x4 [346011]
+    400130: BIMSF-Dimension Lumber-Column 2x4 [347503]
+    400132: BIMSF-Dimension Lumber-Column 2x4 [347696]
+    400134: BIMSF-Dimension Lumber-Column 2x4 [347877]
+    400136: BIMSF-Dimension Lumber-Column 2x6 [367697]
+    400138: BIMSF-Dimension Lumber-Column 2x6 [367755]
+    400140: black wire
+    400142: blower
+    400144: blower arm.001
+    400146: blower arm.002
+    400148: blowermotor
+    400150: blue wire
+    400152: bottom
+    400154: Bulkhead Bulkhead [650141]
+    400156: burners&manifold
+    400158: burners&manifold.001
+    400160: Cap - Threaded - MI - Class 150 Standard [415311]
+    400162: Cap - Threaded - MI - Class 150 Standard [415311].001
+    400164: capacitor
+    400166: combustionairinducer
+    400168: combustionairpressureswitch
+    400170: control board
+    400172: control board.001
+    400174: control board.002
+    400176: control board.003
+    400178: Coupling Concentric Reducing - Threaded - MI - Class 15_784af2e
+    400180: Door Handle
+    400182: Door Single Swing Stop Solid Type 1 [345809]
+    400184: Duct Board Duct Board [652061]
+    400186: Duplex Receptacle Standard [479852]
+    400188: Duplex Receptacle Standard [511428]
+    400190: Duplex Receptacle Standard [511830]
+    400192: Duplex Receptacle Standard [511903]
+    400194: Elbow - Threaded - MI - Class 150 Standard [481464]
+    400196: Elbow - Threaded - MI - Class 150 Standard [483047]
+    400198: Filter - Panel - Flat 16-1/2"x26-3/8" [617294]
+    400200: firewall
+    400202: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee
+    400204: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee.001
+    400206: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee75a4
+    400208: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f
+    400210: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.001
+    400212: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.002
+    400214: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.003
+    400216: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f3685
+    400218: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__26a3db6
+    400220: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__5ec017f
+    400222: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__a6679b4
+    400224: Fitting-Union-Mueller-Streamline-CxC-WC_407-C_107 Stand_1417169
+    400226: Fitting-Union-Mueller-Streamline-CxC-WC_407-C_107 Stand_8056b72
+    400228: flamerolloutswitch
+    400230: flamerolloutswitches
+    400232: flamesensor
+    400234: Flex Duct Round Flex - Round [519060]
+    400236: Flex Duct Round Flex - Round [649002]
+    400238: Flex Pipe Round Flex - Round [534730]
+    400240: Flex Pipe Round Flex - Round [534846]
+    400242: Floor Concrete Slab - 4" [296054]
+    400244: front lower access panel
+    400246: front upper access panel
+    400248: //RootNode
+    400250: gas pipe
+    400252: gasvalve
+    400254: green wire
+    400256: heatexch1
+    400258: heatexch2
+    400260: heatexch3
+    400262: heatexch4
+    400264: heatexchanger
+    400266: Hexagon Junction Box 120V [511660]
+    400268: Humidifier Humidifier [648707]
+    400270: Insulation_Fiber Glass_01
+    400272: Insulation_Fiber Glass_02
+    400274: left side cabinet
+    400276: Lightbulb
+    400278: M_Meter_Water_MEPcontent_Unspecified Generic Water Mete_14ba813
+    400280: middle shelf
+    400282: orange wire
+    400284: Pipe Types Copper Pipe [347976]
+    400286: Pipe Types Copper Pipe [348010]
+    400288: Pipe Types Copper Pipe [416822]
+    400290: Pipe Types Copper Pipe [638271]
+    400292: Pipe Types Copper Pipe [639525]
+    400294: Pipe Types Copper Pipe [639560]
+    400296: Pipe Types Copper Pipe [639678]
+    400298: Pipe Types Copper Pipe [657450]
+    400300: Pipe Types Copper Pipe [657461]
+    400302: Pipe Types Copper Pipe [657526]
+    400304: Pipe Types Copper Pipe [657536]
+    400306: Pipe Types Copper Pipe [657605]
+    400308: Pipe Types Copper Pipe [658258]
+    400310: Pipe Types Copper Pipe [658593]
+    400312: Pipe Types Copper Pipe [658593].001
+    400314: Pipe Types Copper Pipe [658827]
+    400316: Pipe Types Default [414236]
+    400318: Pipe Types Default [514778]
+    400320: Pipe Types Iron Pipe [348062]
+    400322: Pipe Types Iron Pipe [480601]
+    400324: Pipe Types Iron Pipe [481096]
+    400326: Pipe Types Iron Pipe [482875]
+    400328: Pipe Types Iron Pipe [482983]
+    400330: Pipe Types Iron Pipe [533778]
+    400332: Pipe Types Iron Pipe [538028]
+    400334: Pipe Types Iron Pipe [645668]
+    400336: Pipe Types Iron Pipe [645688]
+    400338: Plywood Backing Plywood Backing [482298]
+    400340: rear panel cabinet
+    400342: Rectangular Duct Default [480136]
+    400344: Rectangular Duct Default [480162]
+    400346: Rectangular Duct Default [481779]
+    400348: Rectangular Duct Default [620029]
+    400350: Rectangular Duct Default [630897]
+    400352: Rectangular Length Eccentric Transition - DTL Standard [617527]
+    400354: Rectangular Length Eccentric Transition - DTL Standard [630898]
+    400356: red wire
+    400358: right side cabinet.001
+    400360: Round Duct Default [519921]
+    400362: Round Elbow - Gore 3 Gore 1D [652688]
+    400364: Round Elbow - Gore 3 Gore 1D [654728]
+    400366: Round Elbow - Gore 3 Gore 1D [654894]
+    400368: Round Elbow - Gore 4 Gore 1D [642585]
+    400370: Round Elbow Duct Register_01
+    400372: Round Elbow Duct Register_02
+    400374: Round Transition - DTL Standard [522390]
+    400376: Round Transition - DTL Standard [654582]
+    400378: secondary limit
+    400380: Single Phase Panel - 120V MCB - Recessed 100A [482025]
+    400382: Switch Motorized Door [453805]
+    400384: Switch Motorized Door [503498]
+    400386: T-Handle_Valve_RB_Aluminium_Black-M3_000001 DN8_15 [550432]
+    400388: T-Handle_Valve_RB_Aluminium_Black-M3_000001 DN8_15 [550432].001
+    400390: Tee - Threaded - MI - Class 150 Standard [533777]
+    400392: Tee - Threaded - MI - Class 150 Standard [533777].001
+    400394: Tee Reducing - Threaded - MI - Class 150 Standard [482856]
+    400396: Tee Reducing - Threaded - MI - Class 150 Standard [645687]
+    400398: top panel
+    400400: top rim
+    400402: "Trus_Joist-Weyerhaeuser-Rim_Board_Material TJ\xAE Rim Boa_85c27c6"
+    400404: "Trus_Joist-Weyerhaeuser-Rim_Board_Material TJ\xAE Rim Boa_c15a6dc"
+    400406: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749]
+    400408: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].001
+    400410: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].002
+    400412: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].003
+    400414: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].004
+    400416: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306]
+    400418: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].001
+    400420: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].002
+    400422: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].003
+    400424: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].004
+    400426: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].005
+    400428: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].006
+    400430: Union_Pipe-Dielectric-WATTS-LF3006_Series LF3006-0.5" [5380
+    400432: Union_Pipe-Dielectric-WATTS-LF3006_Series LF3006-0.5" [538046]
+    400434: Vapour Barrier_01
+    400436: Vapour Barrier_02
+    400438: vents on top panel
+    400440: Water_Heater-Gas-Bradford_White-Residential-Ultra_Low_N_7195209
+    2100000: Concrete
+    2100002: Plywood
+    2100004: Lumber
+    2100006: Drywall
+    2100008: Wood Veneer
+    2100010: Stainless Steel
+    2100012: Fiberglass Insulation
+    2100014: Clear Polyethylene
+    2100016: Galvanized Metal
+    2100018: black
+    2100020: Painted Grey Metal
+    2100022: Rough Bare Metal
+    2100024: Grey Plastic
+    2100026: Black Insulation
+    2100028: Shiny Metal
+    2100030: blue
+    2100032: green
+    2100034: orange.001
+    2100036: red.001
+    2100038: No Name
+    2100040: Painted White Metal
+    2100042: Copper
+    2100044: Brass
+    2300000: ' Part [369083]'
+    2300002: ' Part [369085]'
+    2300004: ' Part [369089]'
+    2300006: ' Part [390604]'
+    2300008: ' Part [633079]'
+    2300010: Ball_Valve_2320_RB_Brass-M3_000001 1/2" [550431]
+    2300012: Ball_Valve_2320_RB_Brass-M3_000001 1/2" [550431].001
+    2300014: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1" [526834]
+    2300016: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1/2"_53f
+    2300018: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1/2"_53f31e6
+    2300020: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_3/4"_2e8cb27
+    2300022: Basic Wall Generic - 8" [282334]
+    2300024: Basic Wall Generic - 8" [282335]
+    2300026: BIMSF-Dimension Lumber 2x4 [326762]
+    2300028: BIMSF-Dimension Lumber 2x4 [326764]
+    2300030: BIMSF-Dimension Lumber 2x4 [330609]
+    2300032: BIMSF-Dimension Lumber 2x4 [330611]
+    2300034: BIMSF-Dimension Lumber 2x4 [331124]
+    2300036: BIMSF-Dimension Lumber 2x4 [331244]
+    2300038: BIMSF-Dimension Lumber 2x4 [331286]
+    2300040: BIMSF-Dimension Lumber 2x4 [331288]
+    2300042: BIMSF-Dimension Lumber 2x4 [346312]
+    2300044: BIMSF-Dimension Lumber 2x4 [346807]
+    2300046: BIMSF-Dimension Lumber 2x4 [393409]
+    2300048: BIMSF-Dimension Lumber 2x4 [518634]
+    2300050: BIMSF-Dimension Lumber 2x4 [518753]
+    2300052: BIMSF-Dimension Lumber 2x4 [518764]
+    2300054: BIMSF-Dimension Lumber 2x4 [630291]
+    2300056: BIMSF-Dimension Lumber 2x4 [630701]
+    2300058: BIMSF-Dimension Lumber 2x4 [641584]
+    2300060: BIMSF-Dimension Lumber 2x4 [644607]
+    2300062: BIMSF-Dimension Lumber 2x4 [650940]
+    2300064: BIMSF-Dimension Lumber 2x4 [650965]
+    2300066: BIMSF-Dimension Lumber 2x4 [658559]
+    2300068: BIMSF-Dimension Lumber 2x4 [659044]
+    2300070: BIMSF-Dimension Lumber 2x4 [659115]
+    2300072: BIMSF-Dimension Lumber 2x4 [659164]
+    2300074: BIMSF-Dimension Lumber-Column 2x4 [326766]
+    2300076: BIMSF-Dimension Lumber-Column 2x4 [329440]
+    2300078: BIMSF-Dimension Lumber-Column 2x4 [329537]
+    2300080: BIMSF-Dimension Lumber-Column 2x4 [329595]
+    2300082: BIMSF-Dimension Lumber-Column 2x4 [330103]
+    2300084: BIMSF-Dimension Lumber-Column 2x4 [330162]
+    2300086: BIMSF-Dimension Lumber-Column 2x4 [330199]
+    2300088: BIMSF-Dimension Lumber-Column 2x4 [330362]
+    2300090: BIMSF-Dimension Lumber-Column 2x4 [330847]
+    2300092: BIMSF-Dimension Lumber-Column 2x4 [330925]
+    2300094: BIMSF-Dimension Lumber-Column 2x4 [330938]
+    2300096: BIMSF-Dimension Lumber-Column 2x4 [330951]
+    2300098: BIMSF-Dimension Lumber-Column 2x4 [330962]
+    2300100: BIMSF-Dimension Lumber-Column 2x4 [331122]
+    2300102: BIMSF-Dimension Lumber-Column 2x4 [331126]
+    2300104: BIMSF-Dimension Lumber-Column 2x4 [331128]
+    2300106: BIMSF-Dimension Lumber-Column 2x4 [331130]
+    2300108: BIMSF-Dimension Lumber-Column 2x4 [331132]
+    2300110: BIMSF-Dimension Lumber-Column 2x4 [331134]
+    2300112: BIMSF-Dimension Lumber-Column 2x4 [331290]
+    2300114: BIMSF-Dimension Lumber-Column 2x4 [331292]
+    2300116: BIMSF-Dimension Lumber-Column 2x4 [331294]
+    2300118: BIMSF-Dimension Lumber-Column 2x4 [331296]
+    2300120: BIMSF-Dimension Lumber-Column 2x4 [331298]
+    2300122: BIMSF-Dimension Lumber-Column 2x4 [331453]
+    2300124: BIMSF-Dimension Lumber-Column 2x4 [331495]
+    2300126: BIMSF-Dimension Lumber-Column 2x4 [345907]
+    2300128: BIMSF-Dimension Lumber-Column 2x4 [346011]
+    2300130: BIMSF-Dimension Lumber-Column 2x4 [347503]
+    2300132: BIMSF-Dimension Lumber-Column 2x4 [347696]
+    2300134: BIMSF-Dimension Lumber-Column 2x4 [347877]
+    2300136: BIMSF-Dimension Lumber-Column 2x6 [367697]
+    2300138: BIMSF-Dimension Lumber-Column 2x6 [367755]
+    2300140: black wire
+    2300142: blower
+    2300144: blower arm.001
+    2300146: blower arm.002
+    2300148: blowermotor
+    2300150: blue wire
+    2300152: bottom
+    2300154: Bulkhead Bulkhead [650141]
+    2300156: burners&manifold
+    2300158: burners&manifold.001
+    2300160: Cap - Threaded - MI - Class 150 Standard [415311]
+    2300162: Cap - Threaded - MI - Class 150 Standard [415311].001
+    2300164: capacitor
+    2300166: combustionairinducer
+    2300168: combustionairpressureswitch
+    2300170: control board
+    2300172: control board.001
+    2300174: control board.002
+    2300176: control board.003
+    2300178: Coupling Concentric Reducing - Threaded - MI - Class 15_784af2e
+    2300180: Door Handle
+    2300182: Door Single Swing Stop Solid Type 1 [345809]
+    2300184: Duct Board Duct Board [652061]
+    2300186: Duplex Receptacle Standard [479852]
+    2300188: Duplex Receptacle Standard [511428]
+    2300190: Duplex Receptacle Standard [511830]
+    2300192: Duplex Receptacle Standard [511903]
+    2300194: Elbow - Threaded - MI - Class 150 Standard [481464]
+    2300196: Elbow - Threaded - MI - Class 150 Standard [483047]
+    2300198: Filter - Panel - Flat 16-1/2"x26-3/8" [617294]
+    2300200: firewall
+    2300202: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee
+    2300204: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee.001
+    2300206: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee75a4
+    2300208: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f
+    2300210: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.001
+    2300212: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.002
+    2300214: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.003
+    2300216: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f3685
+    2300218: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__26a3db6
+    2300220: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__5ec017f
+    2300222: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__a6679b4
+    2300224: Fitting-Union-Mueller-Streamline-CxC-WC_407-C_107 Stand_1417169
+    2300226: Fitting-Union-Mueller-Streamline-CxC-WC_407-C_107 Stand_8056b72
+    2300228: flamerolloutswitch
+    2300230: flamerolloutswitches
+    2300232: flamesensor
+    2300234: Flex Duct Round Flex - Round [519060]
+    2300236: Flex Duct Round Flex - Round [649002]
+    2300238: Flex Pipe Round Flex - Round [534730]
+    2300240: Flex Pipe Round Flex - Round [534846]
+    2300242: Floor Concrete Slab - 4" [296054]
+    2300244: front lower access panel
+    2300246: front upper access panel
+    2300248: gas pipe
+    2300250: gasvalve
+    2300252: green wire
+    2300254: heatexch1
+    2300256: heatexch2
+    2300258: heatexch3
+    2300260: heatexch4
+    2300262: heatexchanger
+    2300264: Hexagon Junction Box 120V [511660]
+    2300266: Humidifier Humidifier [648707]
+    2300268: Insulation_Fiber Glass_01
+    2300270: Insulation_Fiber Glass_02
+    2300272: left side cabinet
+    2300274: Lightbulb
+    2300276: M_Meter_Water_MEPcontent_Unspecified Generic Water Mete_14ba813
+    2300278: middle shelf
+    2300280: orange wire
+    2300282: Pipe Types Copper Pipe [347976]
+    2300284: Pipe Types Copper Pipe [348010]
+    2300286: Pipe Types Copper Pipe [416822]
+    2300288: Pipe Types Copper Pipe [638271]
+    2300290: Pipe Types Copper Pipe [639525]
+    2300292: Pipe Types Copper Pipe [639560]
+    2300294: Pipe Types Copper Pipe [639678]
+    2300296: Pipe Types Copper Pipe [657450]
+    2300298: Pipe Types Copper Pipe [657461]
+    2300300: Pipe Types Copper Pipe [657526]
+    2300302: Pipe Types Copper Pipe [657536]
+    2300304: Pipe Types Copper Pipe [657605]
+    2300306: Pipe Types Copper Pipe [658258]
+    2300308: Pipe Types Copper Pipe [658593]
+    2300310: Pipe Types Copper Pipe [658593].001
+    2300312: Pipe Types Copper Pipe [658827]
+    2300314: Pipe Types Default [414236]
+    2300316: Pipe Types Default [514778]
+    2300318: Pipe Types Iron Pipe [348062]
+    2300320: Pipe Types Iron Pipe [480601]
+    2300322: Pipe Types Iron Pipe [481096]
+    2300324: Pipe Types Iron Pipe [482875]
+    2300326: Pipe Types Iron Pipe [482983]
+    2300328: Pipe Types Iron Pipe [533778]
+    2300330: Pipe Types Iron Pipe [538028]
+    2300332: Pipe Types Iron Pipe [645668]
+    2300334: Pipe Types Iron Pipe [645688]
+    2300336: Plywood Backing Plywood Backing [482298]
+    2300338: rear panel cabinet
+    2300340: Rectangular Duct Default [480136]
+    2300342: Rectangular Duct Default [480162]
+    2300344: Rectangular Duct Default [481779]
+    2300346: Rectangular Duct Default [620029]
+    2300348: Rectangular Duct Default [630897]
+    2300350: Rectangular Length Eccentric Transition - DTL Standard [617527]
+    2300352: Rectangular Length Eccentric Transition - DTL Standard [630898]
+    2300354: red wire
+    2300356: right side cabinet.001
+    2300358: Round Duct Default [519921]
+    2300360: Round Elbow - Gore 3 Gore 1D [652688]
+    2300362: Round Elbow - Gore 3 Gore 1D [654728]
+    2300364: Round Elbow - Gore 3 Gore 1D [654894]
+    2300366: Round Elbow - Gore 4 Gore 1D [642585]
+    2300368: Round Elbow Duct Register_01
+    2300370: Round Elbow Duct Register_02
+    2300372: Round Transition - DTL Standard [522390]
+    2300374: Round Transition - DTL Standard [654582]
+    2300376: secondary limit
+    2300378: Single Phase Panel - 120V MCB - Recessed 100A [482025]
+    2300380: Switch Motorized Door [453805]
+    2300382: Switch Motorized Door [503498]
+    2300384: T-Handle_Valve_RB_Aluminium_Black-M3_000001 DN8_15 [550432]
+    2300386: T-Handle_Valve_RB_Aluminium_Black-M3_000001 DN8_15 [550432].001
+    2300388: Tee - Threaded - MI - Class 150 Standard [533777]
+    2300390: Tee - Threaded - MI - Class 150 Standard [533777].001
+    2300392: Tee Reducing - Threaded - MI - Class 150 Standard [482856]
+    2300394: Tee Reducing - Threaded - MI - Class 150 Standard [645687]
+    2300396: top panel
+    2300398: top rim
+    2300400: "Trus_Joist-Weyerhaeuser-Rim_Board_Material TJ\xAE Rim Boa_85c27c6"
+    2300402: "Trus_Joist-Weyerhaeuser-Rim_Board_Material TJ\xAE Rim Boa_c15a6dc"
+    2300404: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749]
+    2300406: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].001
+    2300408: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].002
+    2300410: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].003
+    2300412: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].004
+    2300414: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306]
+    2300416: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].001
+    2300418: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].002
+    2300420: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].003
+    2300422: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].004
+    2300424: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].005
+    2300426: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].006
+    2300428: Union_Pipe-Dielectric-WATTS-LF3006_Series LF3006-0.5" [5380
+    2300430: Union_Pipe-Dielectric-WATTS-LF3006_Series LF3006-0.5" [538046]
+    2300432: Vapour Barrier_01
+    2300434: Vapour Barrier_02
+    2300436: vents on top panel
+    2300438: Water_Heater-Gas-Bradford_White-Residential-Ultra_Low_N_7195209
+    3300000: ' Part [369083]'
+    3300002: ' Part [369085]'
+    3300004: ' Part [369089]'
+    3300006: ' Part [390604]'
+    3300008: ' Part [633079]'
+    3300010: Ball_Valve_2320_RB_Brass-M3_000001 1/2" [550431]
+    3300012: Ball_Valve_2320_RB_Brass-M3_000001 1/2" [550431].001
+    3300014: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1" [526834]
+    3300016: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1/2"_53f
+    3300018: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1/2"_53f31e6
+    3300020: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_3/4"_2e8cb27
+    3300022: Basic Wall Generic - 8" [282334]
+    3300024: Basic Wall Generic - 8" [282335]
+    3300026: BIMSF-Dimension Lumber 2x4 [326762]
+    3300028: BIMSF-Dimension Lumber 2x4 [326764]
+    3300030: BIMSF-Dimension Lumber 2x4 [330609]
+    3300032: BIMSF-Dimension Lumber 2x4 [330611]
+    3300034: BIMSF-Dimension Lumber 2x4 [331124]
+    3300036: BIMSF-Dimension Lumber 2x4 [331244]
+    3300038: BIMSF-Dimension Lumber 2x4 [331286]
+    3300040: BIMSF-Dimension Lumber 2x4 [331288]
+    3300042: BIMSF-Dimension Lumber 2x4 [346312]
+    3300044: BIMSF-Dimension Lumber 2x4 [346807]
+    3300046: BIMSF-Dimension Lumber 2x4 [393409]
+    3300048: BIMSF-Dimension Lumber 2x4 [518634]
+    3300050: BIMSF-Dimension Lumber 2x4 [518753]
+    3300052: BIMSF-Dimension Lumber 2x4 [518764]
+    3300054: BIMSF-Dimension Lumber 2x4 [630291]
+    3300056: BIMSF-Dimension Lumber 2x4 [630701]
+    3300058: BIMSF-Dimension Lumber 2x4 [641584]
+    3300060: BIMSF-Dimension Lumber 2x4 [644607]
+    3300062: BIMSF-Dimension Lumber 2x4 [650940]
+    3300064: BIMSF-Dimension Lumber 2x4 [650965]
+    3300066: BIMSF-Dimension Lumber 2x4 [658559]
+    3300068: BIMSF-Dimension Lumber 2x4 [659044]
+    3300070: BIMSF-Dimension Lumber 2x4 [659115]
+    3300072: BIMSF-Dimension Lumber 2x4 [659164]
+    3300074: BIMSF-Dimension Lumber-Column 2x4 [326766]
+    3300076: BIMSF-Dimension Lumber-Column 2x4 [329440]
+    3300078: BIMSF-Dimension Lumber-Column 2x4 [329537]
+    3300080: BIMSF-Dimension Lumber-Column 2x4 [329595]
+    3300082: BIMSF-Dimension Lumber-Column 2x4 [330103]
+    3300084: BIMSF-Dimension Lumber-Column 2x4 [330162]
+    3300086: BIMSF-Dimension Lumber-Column 2x4 [330199]
+    3300088: BIMSF-Dimension Lumber-Column 2x4 [330362]
+    3300090: BIMSF-Dimension Lumber-Column 2x4 [330847]
+    3300092: BIMSF-Dimension Lumber-Column 2x4 [330925]
+    3300094: BIMSF-Dimension Lumber-Column 2x4 [330938]
+    3300096: BIMSF-Dimension Lumber-Column 2x4 [330951]
+    3300098: BIMSF-Dimension Lumber-Column 2x4 [330962]
+    3300100: BIMSF-Dimension Lumber-Column 2x4 [331122]
+    3300102: BIMSF-Dimension Lumber-Column 2x4 [331126]
+    3300104: BIMSF-Dimension Lumber-Column 2x4 [331128]
+    3300106: BIMSF-Dimension Lumber-Column 2x4 [331130]
+    3300108: BIMSF-Dimension Lumber-Column 2x4 [331132]
+    3300110: BIMSF-Dimension Lumber-Column 2x4 [331134]
+    3300112: BIMSF-Dimension Lumber-Column 2x4 [331290]
+    3300114: BIMSF-Dimension Lumber-Column 2x4 [331292]
+    3300116: BIMSF-Dimension Lumber-Column 2x4 [331294]
+    3300118: BIMSF-Dimension Lumber-Column 2x4 [331296]
+    3300120: BIMSF-Dimension Lumber-Column 2x4 [331298]
+    3300122: BIMSF-Dimension Lumber-Column 2x4 [331453]
+    3300124: BIMSF-Dimension Lumber-Column 2x4 [331495]
+    3300126: BIMSF-Dimension Lumber-Column 2x4 [345907]
+    3300128: BIMSF-Dimension Lumber-Column 2x4 [346011]
+    3300130: BIMSF-Dimension Lumber-Column 2x4 [347503]
+    3300132: BIMSF-Dimension Lumber-Column 2x4 [347696]
+    3300134: BIMSF-Dimension Lumber-Column 2x4 [347877]
+    3300136: BIMSF-Dimension Lumber-Column 2x6 [367697]
+    3300138: BIMSF-Dimension Lumber-Column 2x6 [367755]
+    3300140: black wire
+    3300142: blower
+    3300144: blower arm.001
+    3300146: blower arm.002
+    3300148: blowermotor
+    3300150: blue wire
+    3300152: bottom
+    3300154: Bulkhead Bulkhead [650141]
+    3300156: burners&manifold
+    3300158: burners&manifold.001
+    3300160: Cap - Threaded - MI - Class 150 Standard [415311]
+    3300162: Cap - Threaded - MI - Class 150 Standard [415311].001
+    3300164: capacitor
+    3300166: combustionairinducer
+    3300168: combustionairpressureswitch
+    3300170: control board
+    3300172: control board.001
+    3300174: control board.002
+    3300176: control board.003
+    3300178: Coupling Concentric Reducing - Threaded - MI - Class 15_784af2e
+    3300180: Door Handle
+    3300182: Door Single Swing Stop Solid Type 1 [345809]
+    3300184: Duct Board Duct Board [652061]
+    3300186: Duplex Receptacle Standard [479852]
+    3300188: Duplex Receptacle Standard [511428]
+    3300190: Duplex Receptacle Standard [511830]
+    3300192: Duplex Receptacle Standard [511903]
+    3300194: Elbow - Threaded - MI - Class 150 Standard [481464]
+    3300196: Elbow - Threaded - MI - Class 150 Standard [483047]
+    3300198: Filter - Panel - Flat 16-1/2"x26-3/8" [617294]
+    3300200: firewall
+    3300202: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee
+    3300204: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee.001
+    3300206: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee75a4
+    3300208: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f
+    3300210: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.001
+    3300212: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.002
+    3300214: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.003
+    3300216: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f3685
+    3300218: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__26a3db6
+    3300220: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__5ec017f
+    3300222: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__a6679b4
+    3300224: Fitting-Union-Mueller-Streamline-CxC-WC_407-C_107 Stand_1417169
+    3300226: Fitting-Union-Mueller-Streamline-CxC-WC_407-C_107 Stand_8056b72
+    3300228: flamerolloutswitch
+    3300230: flamerolloutswitches
+    3300232: flamesensor
+    3300234: Flex Duct Round Flex - Round [519060]
+    3300236: Flex Duct Round Flex - Round [649002]
+    3300238: Flex Pipe Round Flex - Round [534730]
+    3300240: Flex Pipe Round Flex - Round [534846]
+    3300242: Floor Concrete Slab - 4" [296054]
+    3300244: front lower access panel
+    3300246: front upper access panel
+    3300248: gas pipe
+    3300250: gasvalve
+    3300252: green wire
+    3300254: heatexch1
+    3300256: heatexch2
+    3300258: heatexch3
+    3300260: heatexch4
+    3300262: heatexchanger
+    3300264: Hexagon Junction Box 120V [511660]
+    3300266: Humidifier Humidifier [648707]
+    3300268: Insulation_Fiber Glass_01
+    3300270: Insulation_Fiber Glass_02
+    3300272: left side cabinet
+    3300274: Lightbulb
+    3300276: M_Meter_Water_MEPcontent_Unspecified Generic Water Mete_14ba813
+    3300278: middle shelf
+    3300280: orange wire
+    3300282: Pipe Types Copper Pipe [347976]
+    3300284: Pipe Types Copper Pipe [348010]
+    3300286: Pipe Types Copper Pipe [416822]
+    3300288: Pipe Types Copper Pipe [638271]
+    3300290: Pipe Types Copper Pipe [639525]
+    3300292: Pipe Types Copper Pipe [639560]
+    3300294: Pipe Types Copper Pipe [639678]
+    3300296: Pipe Types Copper Pipe [657450]
+    3300298: Pipe Types Copper Pipe [657461]
+    3300300: Pipe Types Copper Pipe [657526]
+    3300302: Pipe Types Copper Pipe [657536]
+    3300304: Pipe Types Copper Pipe [657605]
+    3300306: Pipe Types Copper Pipe [658258]
+    3300308: Pipe Types Copper Pipe [658593]
+    3300310: Pipe Types Copper Pipe [658593].001
+    3300312: Pipe Types Copper Pipe [658827]
+    3300314: Pipe Types Default [414236]
+    3300316: Pipe Types Default [514778]
+    3300318: Pipe Types Iron Pipe [348062]
+    3300320: Pipe Types Iron Pipe [480601]
+    3300322: Pipe Types Iron Pipe [481096]
+    3300324: Pipe Types Iron Pipe [482875]
+    3300326: Pipe Types Iron Pipe [482983]
+    3300328: Pipe Types Iron Pipe [533778]
+    3300330: Pipe Types Iron Pipe [538028]
+    3300332: Pipe Types Iron Pipe [645668]
+    3300334: Pipe Types Iron Pipe [645688]
+    3300336: Plywood Backing Plywood Backing [482298]
+    3300338: rear panel cabinet
+    3300340: Rectangular Duct Default [480136]
+    3300342: Rectangular Duct Default [480162]
+    3300344: Rectangular Duct Default [481779]
+    3300346: Rectangular Duct Default [620029]
+    3300348: Rectangular Duct Default [630897]
+    3300350: Rectangular Length Eccentric Transition - DTL Standard [617527]
+    3300352: Rectangular Length Eccentric Transition - DTL Standard [630898]
+    3300354: red wire
+    3300356: right side cabinet.001
+    3300358: Round Duct Default [519921]
+    3300360: Round Elbow - Gore 3 Gore 1D [652688]
+    3300362: Round Elbow - Gore 3 Gore 1D [654728]
+    3300364: Round Elbow - Gore 3 Gore 1D [654894]
+    3300366: Round Elbow - Gore 4 Gore 1D [642585]
+    3300368: Round Elbow Duct Register_01
+    3300370: Round Elbow Duct Register_02
+    3300372: Round Transition - DTL Standard [522390]
+    3300374: Round Transition - DTL Standard [654582]
+    3300376: secondary limit
+    3300378: Single Phase Panel - 120V MCB - Recessed 100A [482025]
+    3300380: Switch Motorized Door [453805]
+    3300382: Switch Motorized Door [503498]
+    3300384: T-Handle_Valve_RB_Aluminium_Black-M3_000001 DN8_15 [550432]
+    3300386: T-Handle_Valve_RB_Aluminium_Black-M3_000001 DN8_15 [550432].001
+    3300388: Tee - Threaded - MI - Class 150 Standard [533777]
+    3300390: Tee - Threaded - MI - Class 150 Standard [533777].001
+    3300392: Tee Reducing - Threaded - MI - Class 150 Standard [482856]
+    3300394: Tee Reducing - Threaded - MI - Class 150 Standard [645687]
+    3300396: top panel
+    3300398: top rim
+    3300400: "Trus_Joist-Weyerhaeuser-Rim_Board_Material TJ\xAE Rim Boa_85c27c6"
+    3300402: "Trus_Joist-Weyerhaeuser-Rim_Board_Material TJ\xAE Rim Boa_c15a6dc"
+    3300404: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749]
+    3300406: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].001
+    3300408: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].002
+    3300410: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].003
+    3300412: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].004
+    3300414: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306]
+    3300416: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].001
+    3300418: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].002
+    3300420: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].003
+    3300422: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].004
+    3300424: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].005
+    3300426: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].006
+    3300428: Union_Pipe-Dielectric-WATTS-LF3006_Series LF3006-0.5" [5380
+    3300430: Union_Pipe-Dielectric-WATTS-LF3006_Series LF3006-0.5" [538046]
+    3300432: Vapour Barrier_01
+    3300434: Vapour Barrier_02
+    3300436: vents on top panel
+    3300438: Water_Heater-Gas-Bradford_White-Residential-Ultra_Low_N_7195209
+    4300000: Floor Concrete Slab - 4" [296054]
+    4300002: Basic Wall Generic - 8" [282334]
+    4300004: Basic Wall Generic - 8" [282335]
+    4300006: ' Part [390604]'
+    4300008: Plywood Backing Plywood Backing [482298]
+    4300010: BIMSF-Dimension Lumber 2x4 [326762]
+    4300012: BIMSF-Dimension Lumber 2x4 [330609]
+    4300014: BIMSF-Dimension Lumber 2x4 [331124]
+    4300016: BIMSF-Dimension Lumber 2x4 [331244]
+    4300018: BIMSF-Dimension Lumber 2x4 [331286]
+    4300020: BIMSF-Dimension Lumber 2x4 [331288]
+    4300022: BIMSF-Dimension Lumber 2x4 [346312]
+    4300024: BIMSF-Dimension Lumber 2x4 [346807]
+    4300026: BIMSF-Dimension Lumber 2x4 [393409]
+    4300028: BIMSF-Dimension Lumber 2x4 [518634]
+    4300030: BIMSF-Dimension Lumber 2x4 [630291]
+    4300032: BIMSF-Dimension Lumber 2x4 [630701]
+    4300034: BIMSF-Dimension Lumber-Column 2x4 [326766]
+    4300036: BIMSF-Dimension Lumber-Column 2x4 [331130]
+    4300038: BIMSF-Dimension Lumber-Column 2x4 [331292]
+    4300040: BIMSF-Dimension Lumber-Column 2x4 [347503]
+    4300042: BIMSF-Dimension Lumber-Column 2x6 [367697]
+    4300044: "Trus_Joist-Weyerhaeuser-Rim_Board_Material TJ\xAE Rim Boa_85c27c6"
+    4300046: "Trus_Joist-Weyerhaeuser-Rim_Board_Material TJ\xAE Rim Boa_c15a6dc"
+    4300048: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749]
+    4300050: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306]
+    4300052: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].001
+    4300054: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].002
+    4300056: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].003
+    4300058: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].004
+    4300060: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].005
+    4300062: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [641306].006
+    4300064: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].001
+    4300066: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].002
+    4300068: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].003
+    4300070: Trus_Joist-Weyerhaeuser-TJI TJI. 210 - 11 7/8 [640749].004
+    4300072: ' Part [369083]'
+    4300074: ' Part [369085]'
+    4300076: ' Part [369089]'
+    4300078: ' Part [633079]'
+    4300080: Bulkhead Bulkhead [650141]
+    4300082: Door Single Swing Stop Solid Type 1 [345809]
+    4300084: Door Handle
+    4300086: Insulation_Fiber Glass_01
+    4300088: Insulation_Fiber Glass_02
+    4300090: Vapour Barrier_01
+    4300092: Vapour Barrier_02
+    4300094: blower
+    4300096: blowermotor
+    4300098: bottom
+    4300100: burners&manifold
+    4300102: capacitor
+    4300104: combustionairinducer
+    4300106: combustionairpressureswitch
+    4300108: control board
+    4300110: flamerolloutswitch
+    4300112: flamerolloutswitches
+    4300114: flamesensor
+    4300116: front upper access panel
+    4300118: front lower access panel
+    4300120: gas pipe
+    4300122: gasvalve
+    4300124: heatexch1
+    4300126: heatexch2
+    4300128: heatexch3
+    4300130: heatexchanger
+    4300132: middle shelf
+    4300134: rear panel cabinet
+    4300136: secondary limit
+    4300138: top rim
+    4300140: top panel
+    4300142: heatexch4
+    4300144: vents on top panel
+    4300146: blower arm.001
+    4300148: blower arm.002
+    4300150: control board.001
+    4300152: control board.002
+    4300154: control board.003
+    4300156: burners&manifold.001
+    4300158: Filter - Panel - Flat 16-1/2"x26-3/8" [617294]
+    4300160: Humidifier Humidifier [648707]
+    4300162: left side cabinet
+    4300164: right side cabinet.001
+    4300166: firewall
+    4300168: Flex Duct Round Flex - Round [519060]
+    4300170: Flex Duct Round Flex - Round [649002]
+    4300172: Rectangular Duct Default [480136]
+    4300174: Rectangular Duct Default [480162]
+    4300176: Rectangular Duct Default [481779]
+    4300178: Rectangular Duct Default [620029]
+    4300180: Rectangular Duct Default [630897]
+    4300182: Rectangular Length Eccentric Transition - DTL Standard [617527]
+    4300184: Rectangular Length Eccentric Transition - DTL Standard [630898]
+    4300186: Round Duct Default [519921]
+    4300188: Round Elbow Duct Register_02
+    4300190: Round Elbow - Gore 3 Gore 1D [652688]
+    4300192: Round Elbow - Gore 3 Gore 1D [654728]
+    4300194: Round Elbow - Gore 3 Gore 1D [654894]
+    4300196: Round Elbow - Gore 4 Gore 1D [642585]
+    4300198: Round Transition - DTL Standard [522390]
+    4300200: Round Transition - DTL Standard [654582]
+    4300202: Duct Board Duct Board [652061]
+    4300204: Round Elbow Duct Register_01
+    4300206: black wire
+    4300208: blue wire
+    4300210: green wire
+    4300212: orange wire
+    4300214: red wire
+    4300216: Switch Motorized Door [453805]
+    4300218: Single Phase Panel - 120V MCB - Recessed 100A [482025]
+    4300220: Hexagon Junction Box 120V [511660]
+    4300222: Duplex Receptacle Standard [479852]
+    4300224: Lightbulb
+    4300226: Water_Heater-Gas-Bradford_White-Residential-Ultra_Low_N_7195209
+    4300228: Union_Pipe-Dielectric-WATTS-LF3006_Series LF3006-0.5" [538046]
+    4300230: T-Handle_Valve_RB_Aluminium_Black-M3_000001 DN8_15 [550432]
+    4300232: Tee - Threaded - MI - Class 150 Standard [533777]
+    4300234: Tee Reducing - Threaded - MI - Class 150 Standard [482856]
+    4300236: Tee Reducing - Threaded - MI - Class 150 Standard [645687]
+    4300238: Pipe Types Copper Pipe [347976]
+    4300240: Pipe Types Copper Pipe [348010]
+    4300242: Pipe Types Copper Pipe [416822]
+    4300244: Pipe Types Copper Pipe [638271]
+    4300246: Pipe Types Copper Pipe [639525]
+    4300248: Pipe Types Copper Pipe [639560]
+    4300250: Pipe Types Copper Pipe [639678]
+    4300252: Pipe Types Copper Pipe [657450]
+    4300254: Pipe Types Copper Pipe [657461]
+    4300256: Pipe Types Copper Pipe [657526]
+    4300258: Pipe Types Copper Pipe [657536]
+    4300260: Pipe Types Copper Pipe [657605]
+    4300262: Pipe Types Copper Pipe [658258]
+    4300264: Pipe Types Copper Pipe [658593]
+    4300266: Pipe Types Copper Pipe [658827]
+    4300268: Pipe Types Default [414236]
+    4300270: Pipe Types Default [514778]
+    4300272: Pipe Types Iron Pipe [348062]
+    4300274: Pipe Types Iron Pipe [480601]
+    4300276: Pipe Types Iron Pipe [481096]
+    4300278: Pipe Types Iron Pipe [482875]
+    4300280: Pipe Types Iron Pipe [482983]
+    4300282: Pipe Types Iron Pipe [533778]
+    4300284: Pipe Types Iron Pipe [538028]
+    4300286: Pipe Types Iron Pipe [645668]
+    4300288: Pipe Types Iron Pipe [645688]
+    4300290: M_Meter_Water_MEPcontent_Unspecified Generic Water Mete_14ba813
+    4300292: Flex Pipe Round Flex - Round [534730]
+    4300294: Flex Pipe Round Flex - Round [534846]
+    4300296: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee75a4
+    4300298: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f3685
+    4300300: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__5ec017f
+    4300302: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__26a3db6
+    4300304: Fitting-Tee-Equal_Reducing-Mueller-Streamline-CxCxC-WT__a6679b4
+    4300306: Fitting-Union-Mueller-Streamline-CxC-WC_407-C_107 Stand_8056b72
+    4300308: Elbow - Threaded - MI - Class 150 Standard [481464]
+    4300310: Elbow - Threaded - MI - Class 150 Standard [483047]
+    4300312: Cap - Threaded - MI - Class 150 Standard [415311]
+    4300314: Coupling Concentric Reducing - Threaded - MI - Class 15_784af2e
+    4300316: Ball_Valve_2320_RB_Brass-M3_000001 1/2" [550431]
+    4300318: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1" [526834]
+    4300320: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1/2"_53f31e6
+    4300322: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_3/4"_2e8cb27
+    4300324: Union_Pipe-Dielectric-WATTS-LF3006_Series LF3006-0.5" [5380
+    4300326: Cap - Threaded - MI - Class 150 Standard [415311].001
+    4300328: Ball_Valve_2320_RB_Brass-M3_000001 1/2" [550431].001
+    4300330: Tee - Threaded - MI - Class 150 Standard [533777].001
+    4300332: T-Handle_Valve_RB_Aluminium_Black-M3_000001 DN8_15 [550432].001
+    4300334: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee
+    4300336: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_3ee.001
+    4300338: Pipe Types Copper Pipe [658593].001
+    4300340: Ball_Valves-Full_Port-WATTS-C-FBV-1_Series C-FBV-1_1/2"_53f
+    4300342: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f
+    4300344: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.001
+    4300346: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.002
+    4300348: Fitting-Elbow-90_45-Mueller-Streamline-CxC-WE_504-WE_50_52f.003
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
