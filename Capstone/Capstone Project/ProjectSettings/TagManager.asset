@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Top Panel
+  - Bottom Panel
+  - Black Wire
+  - Yellow Wire
+  - Green Wire
+  - Red Wire
+  - Blue Wire
+  - Fan Cover
   layers:
   - Default
   - TransparentFX
