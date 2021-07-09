@@ -12,6 +12,13 @@ TagManager:
   - Red Wire
   - Blue Wire
   - Fan Cover
+  - Button
+  - Snap Zone
+  - Black Snap
+  - Yellow Snap
+  - Green Snap
+  - Blue Snap
+  - Red Snap
   layers:
   - Default
   - TransparentFX
